@@ -1,0 +1,21 @@
+{
+  "name": "gorgeous-banana",
+  "version": "1.0.0",
+  "description": "A gorgeous banana for your terminal",
+  "main": "./banana.js",
+  "bin": {
+    "banana": "./banana.js"
+  },
+  "scripts": {
+    "banana": "node ./banana.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gbasto/banana.git"
+  },
+  "author": "Gonçalo Basto",
+  "bugs": {
+    "url": "https://github.com/gbasto/banana/issues"
+  },
+  "homepage": "https://github.com/gbasto/banana#readme"
+}
