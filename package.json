@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gbasto/banana.git"
+    "url": "https://github.com/gbasto/gorgeous-banana.git"
   },
   "author": "Gonçalo Basto",
   "bugs": {
-    "url": "https://github.com/gbasto/banana/issues"
+    "url": "https://github.com/gbasto/gorgeous-banana/issues"
   },
-  "homepage": "https://github.com/gbasto/banana#readme"
+  "homepage": "https://github.com/gbasto/gorgeous-banana#readme"
 }
